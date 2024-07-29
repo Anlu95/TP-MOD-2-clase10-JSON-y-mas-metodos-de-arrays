@@ -1,0 +1,79 @@
+[{
+    "id": 1,
+    "marca": "fierce",
+    "modelo": "FM18SI29AM211", 
+    "rodado": 16,
+    "anio de fabricacion": 2019,
+    "color": "negro",
+    "peso en kilogramos": 13,
+    "tipo": "montañera",
+    "precio": 13.99,
+    "vendida": "true"
+},
+
+{
+    "id": 2,
+    "marca": "shifter",
+    "modelo": "FM18F29AM210",
+    "rodado": 26,
+    "anio de fabricacion": 2022,
+    "color": "rojo",
+    "peso en kilogramos": 14,
+    "tipo": "paseo",
+    "precio": 12.99,
+    "vendida": "false"
+},
+
+{
+    "id": 3,
+    "marca": "olmo",
+    "modelo": "regal",
+    "rodado": 28,
+    "anio de fabricacion": 2018,
+    "color": "violeta",
+    "peso en kilogramos": 17,
+    "tipo": "retro",
+    "precio": 11.99,
+    "vendida": "false"
+},
+
+{
+    "id": 4,
+    "marca": "battle",
+    "modelo": "sunshine",
+    "rodado": 28,
+    "anio de fabricacion": 2020,
+    "color": "gris",
+    "peso en kilogramos": 16,
+    "tipo": "triatlon",
+    "precio": 10.99,
+    "vendida": "true"
+}, 
+
+{
+    "id":5,
+    "marca": "slp",
+    "modelo": "ruta",
+    "rodado": 29,
+    "anio de fabricacion": 2021,
+    "color": "rosa",
+    "peso en kilogramos": 15,
+    "tipo":"paseo",
+    "precio": 10.99,
+    "vendida": "false"
+},
+
+{
+    "id":6,
+    "marca":"battle",
+    "modelo": "tchno",
+    "rodado": 13,
+    "anio de fabricacion": 2017,
+    "color": "naranja",
+    "peso en kilogramos":13,
+    "tipo": "montañera",
+    "precio":10.99,
+    "vendida":"false"
+
+}
+]
